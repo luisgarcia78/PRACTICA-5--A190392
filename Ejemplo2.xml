@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Ejemplo2.xsl"?>
+<celulares>
+  <celular>
+    <marca>Samsung</marca>
+    <modelo>Galaxy S21</modelo>
+    <precio>999.99</precio>
+  </celular>
+  <celular>
+    <marca>Apple</marca>
+    <modelo>iPhone 13</modelo>
+    <precio>1099.99</precio>
+  </celular>
+  <celular>
+    <marca>Google</marca>
+    <modelo>Pixel 6</modelo>
+    <precio>799.99</precio>
+  </celular>
+</celulares>
+
